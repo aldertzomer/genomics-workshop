@@ -4,11 +4,9 @@ title: Setup
 ---
 
 # Overview
-
-This workshop is designed to be run on pre-imaged Amazon Web Services (AWS)
-instances. All of the data and most of the software used
-in the workshop are hosted on an Amazon 
-Machine Image (AMI). Some additional software, detailed below, must be installed on your computer.
+This workshop is designed to be run on Cocalc, but can also be run on pre-imaged Amazon Web Services (AWS)
+instances. All of the data and most of the software used in the workshop are hosted on an Amazon 
+Machine Image (AMI). Some additional software, detailed below, must be installed on your computer if you want to use the AWS instance. If you use Cocalc, only a webbrowser is needed. 
 
 Please follow the instructions below to prepare your computer for the workshop:
 
