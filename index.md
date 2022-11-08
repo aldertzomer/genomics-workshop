@@ -39,7 +39,7 @@ More information about this data is available on the [Data page](https://datacar
 | Day 1 10:45-12:15 | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 | Day 1 12:15-13:00 | Break | Move to other building! |
 | Day 1 13:15-14:00 | Introduction to LTEE | [Tim] |
-| Day 1 14:15-16:00 | [Introduction command line (1-3)](https://aldertzomer.github.io/shell-genomics/)  + discussion |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
+| Day 1 14:15-16:00 | [Introduction command line (1-3)](https://aldertzomer.github.io/shell-genomics/)  +discussion |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
 | &nbsp;  &nbsp; | | |
 | Day 2 09:00-09:45 | Introduction research (NGS, quality, variant calling towards phylogenomics) | [Tim] |
 | Day 2 10:00-12:15 | [Introduction command line (4-6)](https://aldertzomer.github.io/shell-genomics/) | Continue from Day 1 |
@@ -47,7 +47,7 @@ More information about this data is available on the [Data page](https://datacar
 | Day 2 13:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | &nbsp;  &nbsp; | | |
 | Day 3 09:00-09:45 | Introduction research (metagenomics and meta-barcoding) | [Alex] |
-| Day 3 10:00-12:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/)  + discussion | Continue from Day 2 |
+| Day 3 10:00-12:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/)  +discussion | Continue from Day 2 |
 | Day 3 12:15-13:00 | Break |
 | Day 3 13:15-16:00 |[Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) & self study | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources - Only necessary when running this course on an AWS instance. 
   
@@ -61,7 +61,7 @@ More information about this data is available on the [Data page](https://datacar
 | [Bash scripting exercises: sed](https://www.tutorialspoint.com/sed/) | sed tutorial for advanced learners
 | [Bash scripting exercises: awk](https://www.tutorialspoint.com/sed/) | awk tutorial with many examples 
 | [Putting your grep/sed/awk knowledge to the test](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=grep-sed-awk) | Challenges for grep/sed/awk programmers. Requires a user account at [hackerrank](http://www.hackerrank.com)
-| [Intro to R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) | Use R to analyze and visualize between-sample variation. Please note that workshop materials for working with Genomics data in R are in “alpha” development.|
+| [Intro to R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) | Use R to analyze and visualize between-sample variation. Please note that workshop materials for working with Genomics data in R are in “alpha” development. In these lessons they instruct to do a local install or go to Amazon for Rstudio. Alternative you can use a FREE instance in the cloud at https://rstudio.cloud/ (preferred option) |
 | [R for reproducible scientific analyses](https://swcarpentry.github.io/r-novice-gapminder/) | Fundamentals in R and tidyverse |
 
 # Teaching Platform
