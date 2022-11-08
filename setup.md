@@ -4,19 +4,24 @@ title: Setup
 ---
 
 # Overview
-This workshop is designed to be run on Cocalc, but can also be run on pre-imaged Amazon Web Services (AWS)
-instances. All of the data and most of the software used in the workshop are hosted on an Amazon 
-Machine Image (AMI). Some additional software, detailed below, must be installed on your computer if you want to use the AWS instance. If you use Cocalc, only a webbrowser is needed. 
-
+This workshop is designed to be run on Cocalc (at UU), but can also be run on pre-imaged Amazon Web Services (AWS)
+instances. All of the data and most of the software used in the workshop have been moved from Amazon to cocalc. Some additional software, detailed below, must be installed on your computer if you want to use the AWS instance or if you want to install the software to run locally.  
+  
+**If you use Cocalc (recommended for this UU course), only a webbrowser is needed and blow software install can be skipped!**  
+If you do not have spreadsheet software (Excel or Libre Office) please only install Libre Office (instructions below). 
+  
 Please follow the instructions below to prepare your computer for the workshop:
 
+- Use Cocalc --> continue to the lesson  
+**OR**
 - Required additional software + Option A   
 **OR**
 - Required additional software + Option B
 
 ## Required additional software
 
-This lesson requires a working spreadsheet program. If you don't have a spreadsheet program already, you can use LibreOffice. It's a free, open source spreadsheet program.  Directions to install are included for each Windows, Mac OS X, and Linux systems below. For Windows, you will also need to install either Git Bash, PuTTY, or the Ubuntu Subsystem.
+This lesson requires a working spreadsheet program. If you don't have a spreadsheet program already, you can use LibreOffice. It's a free, open source spreadsheet program.  Directions to install are included for each Windows, Mac OS X, and Linux systems below.  
+For local installs for Windows, you will additionally need to install either Git Bash, PuTTY, or the Ubuntu Subsystem.
 
 > ## Windows
 > - Install LibreOffice by going to [the installation page](https://www.libreoffice.org/download/libreoffice-fresh/). The version for Windows should automatically be selected. Click Download Version X.X.X (whichever is the most recent version). You will go to a page that asks about a donation, but you don't need to make one. Your download should begin automatically.  
@@ -54,7 +59,7 @@ This lesson requires a working spreadsheet program. If you don't have a spreadsh
 > - Once the installer is downloaded, double click on it and LibreOffice should install.
 {: .solution}
 
-## Option A (**Recommended**): Using the lessons with Amazon Web Services (AWS)
+## Option A: Using the lessons with Amazon Web Services (AWS)
 
 If you are signed up to take a Genomics Data Carpentry workshop, you do *not* need to worry about setting up an AMI instance. The Carpentries
 staff will create an instance for you and this will be provided to you at no cost. This is true for both self-organized and centrally-organized workshops. Your Instructor will provide instructions for connecting to the AMI instance at the workshop.
