@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="300" height="277" src="https://mmb-umcu.github.io/genomics-workshop/fig/logo.png" />
+</p
 
 This course is a copy of the Genomics Workshop from Data Carpentry which is adjusted for the Microbial Genomics course at Utrecht University.
 Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working
