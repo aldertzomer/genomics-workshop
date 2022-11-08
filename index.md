@@ -2,15 +2,18 @@
   <img width="300" height="277" src="https://mmb-umcu.github.io/genomics-workshop/fig/logo.png" />
 </p
 
-This course is a copy of the Genomics Workshop from Data Carpentry which is adjusted for the Microbial Genomics course at Utrecht University.
+This course is a copy of the Genomics Workshop from Data Carpentry which is adjusted for the **Microbial Genomics course at Utrecht University**.
 Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working
 with data so that they can get more done in less time, and with less pain. This workshop
 teaches data management and analysis for genomics research including: 
-best practices for organization of bioinformatics projects and data, use of command-line 
-utilities, use of command-line tools to analyze sequence quality and
-perform variant calling, and connecting to and using cloud computing. This workshop is designed to 
-be taught over two full days of instruction.
 
+- best practices for organization of bioinformatics projects and data, 
+- use of command-line utilities, 
+- use of command-line tools to analyze sequence quality and perform variant calling, 
+- and connecting to and using cloud computing.  
+
+This workshop is designed to be taught over two full days of work (excluding lectures).  
+  
 Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/edit#slide=id.p) available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Genomics workshops.
 
 
