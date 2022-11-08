@@ -17,27 +17,19 @@ This workshop is designed to be taught over two full days of work (excluding lec
 Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/edit#slide=id.p) available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Genomics workshops.
 
 
-> ## Frequently Asked Questions
-> Read our [FAQ](/genomics-workshop/faq/) to learn more about Data Carpentry's Genomics workshop, as an Instructor or a workshop host.
+## Getting Started
 
-> ## Getting Started
->
-> This lesson assumes that learners have no prior experience with the tools covered in the workshop. 
-> However, learners are expected to have some familiarity with biological concepts,
-> including the 
-> concept of genomic variation within a population. Participants should bring their own laptops and plan to participate actively. 
-> 
-> To get started, follow the directions in the [Setup](setup.html) tab to 
-> get access to the required software and data for this workshop.
-> 
+This lesson assumes that learners have no prior experience with the tools covered in the workshop.  
+However, learners are expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Participants should bring their own laptops and plan to participate actively. 
+   
 
-> ## Data
-> 
-> This workshop uses data from a long term evolution experiment published in 2016: [Tempo and mode of genome evolution in a 50,000-generation experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988878/) by Tenaillon O, Barrick JE, Ribeck N, Deatherage DE, Blanchard JL, Dasgupta A, Wu GC, Wielgoss S, Cruveiller S, Médigue C, Schneider D, and Lenski RE. (doi: 10.1038/nature18959)
->
-> All of the data used in this workshop can be [downloaded from Figshare](https://figshare.com/articles/Data_Carpentry_Genomics_beta_2_0/7726454). 
-> More information about this data is available on the [Data page](https://datacarpentry.org/organization-genomics/data/).
-{: .prereq} 
+## Data
+ 
+This workshop uses data from a long term evolution experiment published in 2016: [Tempo and mode of genome evolution in a 50,000-generation experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988878/) by Tenaillon O, Barrick JE, Ribeck N, Deatherage DE, Blanchard JL, Dasgupta A, Wu GC, Wielgoss S, Cruveiller S, Médigue C, Schneider D, and Lenski RE. (doi: 10.1038/nature18959)  
+  
+All of the data used in this workshop can be [downloaded from Figshare](https://figshare.com/articles/Data_Carpentry_Genomics_beta_2_0/7726454).  
+More information about this data is available on the [Data page](https://datacarpentry.org/organization-genomics/data/).  
+  
 
 # Workshop Overview 
 
