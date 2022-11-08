@@ -16,12 +16,10 @@ This workshop is designed to be taught over two full days of work (excluding lec
   
 Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/edit#slide=id.p) available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Genomics workshops.
 
-
 ## Getting Started
 
 This lesson assumes that learners have no prior experience with the tools covered in the workshop.  
 However, learners are expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. Participants should bring their own laptops and plan to participate actively. 
-   
 
 ## Data
  
@@ -29,6 +27,7 @@ This workshop uses data from a long term evolution experiment published in 2016:
   
 All of the data used in this workshop can be [downloaded from Figshare](https://figshare.com/articles/Data_Carpentry_Genomics_beta_2_0/7726454).  
 More information about this data is available on the [Data page](https://datacarpentry.org/organization-genomics/data/).  
+    
   
 
 # Workshop Overview 
@@ -52,6 +51,8 @@ More information about this data is available on the [Data page](https://datacar
 | Day 3 12:15-13:00 | Break |
 | Day 3 13:15-16:00 |[Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) & self study | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources - Only necessary when running this course on an AWS instance. 
   
+  
+
 # **Optional** Additional Lessons (Wednesday, self-study)
 
 | Lesson | Overview |
