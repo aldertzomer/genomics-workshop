@@ -33,8 +33,8 @@ More information about this data is available on the [Data page](https://aldertz
 Room BOL-2.068 & BBG-079
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
-| 09:00-09:45 | Introduction to course | [**Michael**] |
-| 10:00-10:30 | Introduction to day 1-3 | [**Alex** / Tim / Aldert] |
+| 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
+| 10:00-10:30 | Introduction to day 1-3 | [ [**Alex Bossers**](https://www.linkedin.com/in/alexbossers/) / [Tim Dallman](https://www.linkedin.com/in/timothy-dallman-a7535520/) / [Aldert Zomer](https://www.linkedin.com/in/aldertzomer)] |
 | 10:45-12:15 | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 | 12:15-13:00 | Break | Move to other building! |
 | 13:15-14:00 | Introduction to LTEE | [**Tim**] |
