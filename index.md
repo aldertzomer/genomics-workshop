@@ -27,34 +27,44 @@ This workshop uses data from a long term evolution experiment published in 2016:
   
 All of the data used in this workshop can be [downloaded from Figshare](https://figshare.com/articles/Data_Carpentry_Genomics_beta_2_0/7726454). However to make things more convvenient and limit the time to download large files all data is provided locally in your cocalc home directory as well.  
 More information about this data is available on the [Data page](https://aldertzomer.github.io/organization-genomics/data/).  
-    
-  
+
+<br>
 
 # Workshop Overview 
 
-| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Lesson | Overview |
+### Monday
+Room BOL-2.068 & BBG-079
+| **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
-| **Monday** |
 | Day 1 09:00-09:45 | Introduction to course | [**Michael**] |
 | Day 1 10:00-10:30 | Introduction to day 1-3 | [**Alex** / Tim / Aldert] |
 | Day 1 10:45-12:15 | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 | Day 1 12:15-13:00 | Break | Move to other building! |
 | Day 1 13:15-14:00 | Introduction to LTEE | [**Tim**] |
 | Day 1 14:15-16:00 | [Introduction command line (1-3)](https://aldertzomer.github.io/shell-genomics/)  +discussion |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
-| &nbsp;  &nbsp; | | |
-| **Tuesday** |
+
+  
+### Tuesday
+Room BOL-2.068
+| **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
+| :-- | :-- | :-- |
 | Day 2 09:00-09:45 | Introduction research (NGS, quality, variant calling towards phylogenomics) | [Tim] |
 | Day 2 10:00-12:15 | [Introduction command line (4-6)](https://aldertzomer.github.io/shell-genomics/) | Continue from Day 1 |
 | Day 2 12:15-13:00 | Break |
 | Day 2 13:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | &nbsp;  &nbsp; | | |
-| **Wednesday** |
+
+  
+### Wednesday
+Room BOL-2.068 & BOL-1.055
+| **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
+| :-- | :-- | :-- |
 | Day 3 09:00-09:45 | Introduction research (metagenomics and meta-barcoding) | [**Alex**] |
 | Day 3 10:00-12:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/)  +discussion | Continue from Day 2 |
 | Day 3 12:15-13:00 | Break |
 | Day 3 13:15-16:00 |[Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) & self study | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources - Only necessary when running this course on an AWS instance. 
   
-  
+<br>
 
 # **Optional** Additional Lessons (Extra & Wednesday self-study)
 
