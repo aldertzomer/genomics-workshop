@@ -12,10 +12,7 @@ teaches data management and analysis for genomics research including:
 - use of command-line tools to analyze sequence quality and perform variant calling, 
 - and connecting to and using cloud computing.  
 
-This workshop is designed to be taught over two full days of work (excluding lectures).  
   
-Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=zgdutO5tejo) and accompanying [slides](https://docs.google.com/presentation/d/1fLlT2lPv32DqCFpRPPdHZBNHiQTpK79wd5Z3nsFwL3s/edit#slide=id.p) available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at centrally-organized Data Carpentry Genomics workshops.
-
 ## Getting Started
 
 This lesson assumes that learners have no prior experience with the tools covered in the workshop.  
@@ -25,7 +22,7 @@ However, learners are expected to have some familiarity with biological concepts
  
 This workshop uses data from a long term evolution experiment published in 2016: [Tempo and mode of genome evolution in a 50,000-generation experiment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988878/) by Tenaillon O, Barrick JE, Ribeck N, Deatherage DE, Blanchard JL, Dasgupta A, Wu GC, Wielgoss S, Cruveiller S, Médigue C, Schneider D, and Lenski RE. (doi: 10.1038/nature18959)  
   
-All of the data used in this workshop can be [downloaded from Figshare](https://figshare.com/articles/Data_Carpentry_Genomics_beta_2_0/7726454). However to make things more convvenient and limit the time to download large files all data is provided locally in your cocalc home directory as well.  
+All of the data used in this workshop can be [downloaded from Figshare](https://figshare.com/articles/Data_Carpentry_Genomics_beta_2_0/7726454). However to make things more convenient and limit the time to download large files, all data is provided locally in your cocalc personal home directory as well.  
 More information about this data is available on the [Data page](https://aldertzomer.github.io/organization-genomics/data/).  
 
 <br>
@@ -75,6 +72,5 @@ Room BOL-2.068 & BOL-1.055
 | [R for reproducible scientific analyses](https://swcarpentry.github.io/r-novice-gapminder/) | Fundamentals in R and tidyverse |
 
 # Teaching Platform
-This workshop is as much based on the original datacarpentries workshop however it was redesigned to be run on a [Cocalc instance (4)](https://cocalc4.science.uu.nl/) or [Cocalc instance (6)](https://cocalc6.science.uu.nl/) platform hosted at Utrecht University.
-If you want to run your own instance of a similar server used for this workshop, follow the directions in the [Setup](setup.html) tab to generate an Amazon version (without the cocalc interface). 
-
+This workshop is as original as possible from the [Data Carpentries workshop series](http://datacarpentry.org/) however it was partly redesigned to be run on the [Cocalc instance (4)](https://cocalc4.science.uu.nl/) or [Cocalc instance (6)](https://cocalc6.science.uu.nl/) platform hosted at Utrecht University.
+If you want to run your own instance of a similar server used for this workshop, follow the directions in the [Setup](setup.html) tab to generate an Amazon version (without the cocalc interface) or go to the http://datacarpentry.org/ website for more information.  
