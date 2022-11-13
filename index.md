@@ -30,7 +30,9 @@ More information about this data is available on the [Data page](https://aldertz
 # Workshop Overview 
 
 ### Monday (day 1)
-Room BOL-2.068 & BBG-079
+
+Room BOL-2.068 & BBG-079  
+
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
@@ -41,7 +43,9 @@ Room BOL-2.068 & BBG-079
 | 14:15-16:00 | [Introduction command line (1-3)](https://aldertzomer.github.io/shell-genomics/)  +discussion |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
 
 ### Tuesday (day 2)
-Room BOL-2.068
+
+Room BOL-2.068  
+
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction research (NGS, quality, variant calling towards phylogenomics) | [Tim] |
@@ -50,7 +54,9 @@ Room BOL-2.068
 | 13:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
   
 ### Wednesday (day 3)
-Room BOL-2.068 & BOL-1.055
+
+Room BOL-2.068 & BOL-1.055  
+
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction research (metagenomics and meta-barcoding) | [**Alex**] |
