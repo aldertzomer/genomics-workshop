@@ -60,10 +60,10 @@ Room BOL-2.068 & BOL-1.055
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to Metagenomics and Metabarcoding) | [**Alex**] |
-| 10:00-12:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/)  +discussion | Continue from Day 2 |
+| 10:00-12:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) +discussion | Continue from Day 2 |
 | 12:15-13:00 | Break |
 | 13:00-13:45 | Introduction to phylogenetic methods  | [**Tim**] |
-| 14:00-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/)  +discussion | Finishing up |
+| 14:00-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | Finishing up + discussion |
 | extra |[Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) = self study | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources - Only necessary when you want to run your own instance of this course on an AWS instance.| 
   
 <br>
