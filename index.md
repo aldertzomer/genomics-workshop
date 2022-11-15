@@ -73,7 +73,7 @@ Room BOL-2.068 & BOL-1.055
 | :-- | :-- |
 | [Bash scripting exercises: grep](https://ryanstutorials.net/linuxtutorial/grep.php) | Learn grep and **regular expressions** with examples 
 | [Bash scripting exercises: sed](https://www.tutorialspoint.com/sed/) | sed tutorial for advanced learners
-| [Bash scripting exercises: awk](https://www.tutorialspoint.com/sed/) | awk tutorial with many examples 
+| [Bash scripting exercises: awk](https://www.tutorialspoint.com/awk/) | awk tutorial with many examples 
 | [Putting your grep/sed/awk knowledge to the test](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=grep-sed-awk) | Challenges for grep/sed/awk programmers. Requires a user account at [hackerrank](http://www.hackerrank.com)
 | [Intro to R and RStudio for Genomics](https://datacarpentry.org/genomics-r-intro/) | Use R to analyze and visualize between-sample variation. Please note that workshop materials for working with Genomics data in R are in “alpha” development. In these lessons they instruct to do a local install or go to Amazon for Rstudio. Alternative you can use a FREE instance in the cloud at https://rstudio.cloud/ (preferred option) |
 | [R for reproducible scientific analyses](https://swcarpentry.github.io/r-novice-gapminder/) | Fundamentals in R and tidyverse |
