@@ -51,7 +51,7 @@ Room BOL-2.068
 | 09:00-09:45 | Introduction research (NGS, quality, variant calling towards phylogenomics) | [Tim] |
 | 10:00-12:15 | [Introduction command line (4-6)](https://aldertzomer.github.io/shell-genomics/) | Continue from Day 1 |
 | 12:15-13:00 | Break |
-| 13:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
+| 13:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | [Alex] Discussion getting the max from FastQC<br>[Students] Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
   
 ### Wednesday (day 3)
 
