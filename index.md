@@ -36,10 +36,10 @@ Room BOL-1.128 & Ruppert-134
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
-| 10:00-10:45 | Introduction to data carpentry days 1-3 | [ [**Alex Bossers**](https://www.linkedin.com/in/alexbossers/) / [Tim Dallman](https://www.linkedin.com/in/timothy-dallman-a7535520/) / [Aldert Zomer](https://www.linkedin.com/in/aldertzomer)] |
+| 10:00-10:45 | Introduction to data carpentry days 1-3 | [ [**Alex Bossers**](https://www.linkedin.com/in/alexbossers/) / [Tim Dallman](https://www.linkedin.com/in/timothy-dallman-a7535520/) / [Julian Paganini](https://www.linkedin.com/in/julian-paganini-bb6328104/) / [Aldert Zomer](https://www.linkedin.com/in/aldertzomer)] |
 | 11:00-12:30 | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 | 12:30-13:00 | Break | Move to other building! |
-| 13:15-14:00 | Introduction to LTEE | [**Tim**] |
+| 13:15-14:00 | Introduction to LTEE | [**Julian**] |
 | 14:15-16:00 | [Introduction command line (1-3)](https://aldertzomer.github.io/shell-genomics/)  +discussion |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
 
 ### Tuesday 14 Nov (day 2)
@@ -65,7 +65,7 @@ Room Ruppert C & BOL-1.128
 | 12:15-13:00 | Break |
 | 13:00-13:45 | Introduction to phylogenetic methods  | [**Tim**] |
 | 14:00-14:15 | Check-in / status / discussion points | All |
-| 14:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | Finishing up |
+| 14:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | All - Finishing up |
 | 15:00- | Self-study/finishing-up + extra [Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) = self study | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources - Only necessary when you want to run your own instance of this course on an AWS instance.| 
   
 <br>
@@ -82,5 +82,5 @@ Room Ruppert C & BOL-1.128
 | [R for reproducible scientific analyses](https://swcarpentry.github.io/r-novice-gapminder/) | Fundamentals in R and tidyverse |
 
 # Teaching Platform
-This workshop is as original as possible from the [Data Carpentries workshop series](http://datacarpentry.org/) however it was partly redesigned to be run on the [Cocalc instance (4)](https://cocalc4.science.uu.nl/) or [Cocalc instance (6)](https://cocalc6.science.uu.nl/) platform hosted at Utrecht University.
+This workshop is as original as possible from the [Data Carpentries workshop series](http://datacarpentry.org/) however it was partly redesigned to be run on the [Cocalc instance (3)](https://cocalc3.science.uu.nl/) or [Cocalc instance (4)](https://cocalc4.science.uu.nl/) platform hosted at Utrecht University.
 If you want to run your own instance of a similar server used for this workshop, follow the directions in the [Setup](setup.html) tab to generate an Amazon version (without the cocalc interface) or go to the http://datacarpentry.org/ website for more information.  
