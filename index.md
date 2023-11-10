@@ -29,9 +29,9 @@ More information about this data is available on the [Data page](https://aldertz
 
 # Workshop Overview 
 
-### Monday (day 1)
+### Monday 13 Nov (day 1)
 
-Room BOL-2.068 & BBG-079  
+Room BOL-1.128 & Ruppert-134  
 
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
@@ -42,9 +42,9 @@ Room BOL-2.068 & BBG-079
 | 13:15-14:00 | Introduction to LTEE | [**Tim**] |
 | 14:15-16:00 | [Introduction command line (1-3)](https://aldertzomer.github.io/shell-genomics/)  +discussion |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
 
-### Tuesday (day 2)
+### Tuesday 14 Nov (day 2)
 
-Room BOL-2.068  
+Room Ruppert-115 & BBG-165  
 
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
@@ -53,9 +53,9 @@ Room BOL-2.068
 | 12:15-13:00 | Break |
 | 13:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | [Alex] Discussion getting the max from FastQC<br>[Students] Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
   
-### Wednesday (day 3)
+### Wednesday 15 Nov (day 3)
 
-Room BOL-2.068 & BOL-1.055  
+Room Ruppert C & BOL-1.128  
 
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
