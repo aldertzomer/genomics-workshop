@@ -33,7 +33,7 @@ More information about this data is available on the [Data page](https://aldertz
 
 Room BOL-1.128 & Ruppert-134  
 
-| **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
+| **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
 | 10:00-10:45 | Introduction to data carpentry days 1-3 | [ [**Alex Bossers**](https://www.linkedin.com/in/alexbossers/) / [Tim Dallman](https://www.linkedin.com/in/timothy-dallman-a7535520/) / [Julian Paganini](https://www.linkedin.com/in/julian-paganini-bb6328104/) / [Aldert Zomer](https://www.linkedin.com/in/aldertzomer)] |
@@ -51,14 +51,14 @@ Room Ruppert-116 & BBG-165
 | 09:00-09:45 | Introduction research (NGS, quality, variant calling towards phylogenomics) | [**Tim**] |
 | 10:00-12:15 | [Introduction command line (4-6)](https://aldertzomer.github.io/shell-genomics/) | Continue from Day 1 or start data wrangling |
 | 12:15-13:00 | Break |
-| 13:15-15:45 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | [**Alex/Julian**] Discussion getting the max from FastQC<br>[Students] Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
+| 13:15-15:45 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | [**Alex/Julian**] Check-in<br>Discussion getting the max from FastQC<br><br>[**Students**] Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | 15:45-16:00 | Plenary status check, problems/difficulties to address? | All |
   
 ### Wednesday 15 Nov (day 3)
 
 Room Ruppert C & BOL-1.128  
 
-| **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
+| **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to Metagenomics and Metabarcoding) | [**Alex**] |
 | 10:00-12:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) +discussion | Continue from Day 2 |
@@ -66,7 +66,7 @@ Room Ruppert C & BOL-1.128
 | 13:00-13:45 | Introduction to phylogenetic methods  | [**Tim**] |
 | 14:00-14:15 | Check-in / status / discussion points | All |
 | 14:15-16:00 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | All - Finishing up |
-| 15:00- | Self-study/finishing-up + extra [Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) = self study | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources - Only necessary when you want to run your own instance of this course on an AWS instance.| 
+| 15:00- | Wrapping-up / status<br>+ self study extra's [Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) | Optional - Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources. *Only necessary when you want to run your own instance of this course on an AWS instance.*<br><br>Not included in the exam.| 
   
 <br>
 
