@@ -44,7 +44,7 @@ Room BOL-1.128 & Ruppert-134
 
 ### Tuesday 14 Nov (day 2)
 
-Room Ruppert-115 & BBG-165  
+Room Ruppert-116 & BBG-165  
 
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
