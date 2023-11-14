@@ -49,7 +49,7 @@ Room Ruppert-116 & BBG-165
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson** | **Overview** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction research (NGS, quality, variant calling towards phylogenomics) | [**Tim**] |
-| 10:00-12:15 | [Introduction command line (4-6)](https://aldertzomer.github.io/shell-genomics/) | Continue from Day 1 or start data wrangling |
+| 10:00-12:15 | [Introduction command line (4-6)](https://aldertzomer.github.io/shell-genomics/) | Recap Day 1<br>Continue from Day 1 or start data wrangling<br>Sequence data formats + fastQC [ALex/Julian] |
 | 12:15-13:00 | Break |
 | 13:15-15:45 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | [**Alex/Julian**] Check-in<br>Discussion getting the max from FastQC<br><br>[**Students**] Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | 15:45-16:00 | Plenary status check, problems/difficulties to address? | All |
