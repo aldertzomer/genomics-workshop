@@ -37,9 +37,9 @@ Room BOL-1.128 (morning) & BOL-1.138 (afternoon)
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
 | 09:45-10:15 | Introduction to data carpentry days 1-2 | [ [**Alex Bossers**](https://www.linkedin.com/in/alexbossers/) / [Tim Dallman](https://www.linkedin.com/in/timothy-dallman-a7535520/) / [Julian Paganini](https://www.linkedin.com/in/julian-paganini/) / [Aldert Zomer](https://www.linkedin.com/in/aldertzomer)] |
-| 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/) <br> + code along |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
+| 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/) <br> + code along |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. [Julian/Alex] |
 | 12:45-13:15 | Break | Move to other room! |
-| 13:15-14:00 | [Introduction command line (5-6)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation [Alex/Julian] |
+| 13:15-14:00 | [Introduction command line (5-6)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation |
 | 14:00-14:30 | Sequence data formats and QC | [Alex/Julian] |
 | 14:30-16:00 | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | **Students:** Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 | 16:15-17:00 | Self study | **Students** |
