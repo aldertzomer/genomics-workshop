@@ -64,7 +64,7 @@ Room BOL-1.138 (morning) & BOL-1.075 (afternoon)
 <br>
 <br>
 
-🔴**Red** **<span style="color: red;">If all of the above is peanuts</span>, move ahead and master your skills with the optional extra's shown below!**<br>
+🔴 **<span style="color: red;">If all of the above is peanuts</span>, move ahead and master your skills with the optional extra's shown below!**<br>
 
 <br>
 
