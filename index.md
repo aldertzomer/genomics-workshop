@@ -60,12 +60,12 @@ Room BOL-1.138 (morning) & BOL-1.075 (afternoon)
 | 15:45-16:00 | Plenary status check, problems/difficulties to address? | All |
 | 16:15-17:00 | Self study | **Students** |
   
-
-| 15:00- | Wrapping-up / status<br>+ self study extra's [Introduction to cloud computing for genomics](http://aldertzomer.github.io/cloud-genomics/) | Optional - Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources. *Only necessary when you want to run your own instance of this course on an AWS instance.*<br><br>Not included in the exam.| 
-  
+ 
 <br>
 
-If all of the above is peanuts, move ahead and master your skills with the optional extra's shown below!<br>
+**<span style="color: red;">If all of the above is peanuts</span>, move ahead and master your skills with the optional extra's shown below!**<br>
+
+<br>
 
 # **Optional** Additional Lessons (Extra self-study)
 
@@ -80,5 +80,5 @@ If all of the above is peanuts, move ahead and master your skills with the optio
 | [Genomics in the cloud (AWS)](https://datacarpentry.org/cloud-genomics/) | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources ([setting-up own cloud instance instructions](https://datacarpentry.org/genomics-workshop/AMI-setup)). *Only necessary when you want to run your own instance of this course on an AWS instance!*
 
 # Teaching Platform
-This workshop is as original as possible from the [Data Carpentries workshop series](http://datacarpentry.org/) however it was partly redesigned to initially be run at the CoCalc platform hosted at Utrecht University, but from edition 2024 onwards we moved back to a classical (full) command line interface at gemini.science.uu.nl!<br>
-If you want to run your own instance of a similar server used for this workshop, follow the directions to generate an Amazon version as described on [DataCarpentry genomics](https://datacarpentry.org/genomics-workshop/) or alternatively try the Windows Subsystem for Linux (WSL Ubuntu) on MS windows.  
+This workshop is as original as possible from the [Data Carpentries workshop series](http://datacarpentry.org/) however it was partly redesigned to initially be run at the CoCalc platform hosted at Utrecht University, but **from edition 2024** onwards we moved back to a classical (full) command line interface at **gemini.science.uu.nl**!<br>
+If you want to run your own instance of a similar server used for this workshop, follow the directions to generate an Amazon version as described on [DataCarpentry genomics](https://datacarpentry.org/genomics-workshop/AMI-setup) or alternatively try the *Windows Subsystem for Linux* (WSL Ubuntu) on MS windows.  
