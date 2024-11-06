@@ -37,7 +37,7 @@ Room BOL-1.128 (morning) & BOL-1.138 (afternoon)
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
 | 09:45-10:15 | Introduction to data carpentry days 1-2 | [ [**Alex Bossers**](https://www.linkedin.com/in/alexbossers/) / [Tim Dallman](https://www.linkedin.com/in/timothy-dallman-a7535520/) / [Julian Paganini](https://www.linkedin.com/in/julian-paganini/) / [Aldert Zomer](https://www.linkedin.com/in/aldertzomer)] |
-| 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/)  + code along |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
+| 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/) <br> + code along |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. |
 | 12:45-13:15 | Break | Move to other room! |
 | 13:15-14:00 | [Introduction command line (5-6)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation [Alex/Julian] |
 | 14:00-14:30 | Sequence data formats and QC | [Alex/Julian] |
@@ -62,8 +62,9 @@ Room BOL-1.138 (morning) & BOL-1.075 (afternoon)
   
  
 <br>
+<br>
 
-**<span style="color: red;">If all of the above is peanuts</span>, move ahead and master your skills with the optional extra's shown below!**<br>
+🔴**Red** **<span style="color: red;">If all of the above is peanuts</span>, move ahead and master your skills with the optional extra's shown below!**<br>
 
 <br>
 
@@ -80,5 +81,5 @@ Room BOL-1.138 (morning) & BOL-1.075 (afternoon)
 | [Genomics in the cloud (AWS)](https://datacarpentry.org/cloud-genomics/) | Learn how to work with Amazon AWS cloud computing and how to transfer data between your local computer and cloud resources ([setting-up own cloud instance instructions](https://datacarpentry.org/genomics-workshop/AMI-setup)). *Only necessary when you want to run your own instance of this course on an AWS instance!*
 
 # Teaching Platform
-This workshop is as original as possible from the [Data Carpentries workshop series](http://datacarpentry.org/) however it was partly redesigned to initially be run at the CoCalc platform hosted at Utrecht University, but **from edition 2024** onwards we moved back to a classical (full) command line interface at **gemini.science.uu.nl**!<br>
+This workshop is as original as possible from the [Data Carpentries workshop series](http://datacarpentry.org/) however it was partly redesigned to initially be run at the CoCalc platform hosted at Utrecht University, but **from edition 2024** onwards we moved back to a classical (full) command line interface at **[gemini.science.uu.nl](ssh://gemini.science.uu.nl)**!<br>
 If you want to run your own instance of a similar server used for this workshop, follow the directions to generate an Amazon version as described on [DataCarpentry genomics](https://datacarpentry.org/genomics-workshop/AMI-setup) or alternatively try the *Windows Subsystem for Linux* (WSL Ubuntu) on MS windows.  
