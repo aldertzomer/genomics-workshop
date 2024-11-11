@@ -55,8 +55,7 @@ Room BOL-1.138 (morning) & BOL-1.075 (afternoon)
 | 09:15-10:00 | Introduction to LTEE | [**Julian**] |
 | 10:00-12:45 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | 12:45-13:15 | Break | Move to other room! |
-| 13:15-13:45 | WGS to MGS | [Alex] |
-| 13:45-15:45 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Continue to the finish |
+| 13:15-15:45 | [Data wrangling and processing](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Continue to the finish |
 | 15:45-16:00 | Plenary status check, problems/difficulties to address? | All |
 | 16:15-17:00 | Self study | **Students** |
   
