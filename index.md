@@ -37,7 +37,7 @@ Room BOL-1.082
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
 | 09:45-10:15 | Introduction data carpentry days 1-2 | [ [**Alex Bossers**](https://www.linkedin.com/in/alexbossers/) / [Linda van der Graaf-van Bloois](https://www.uu.nl/medewerkers/LvanderGraafvanBloois/) / [Peter Reinink](https://www.uu.nl/medewerkers/PReinink) ] |
-| 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/) <br> + code along |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. [Alex/Peter/Linda] |
+| 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/) |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. [Alex/Peter/Linda] |
 | 12:45-13:15 | Break | &nbsp; |
 | 13:15-14:30 | [Introduction command line (5-6)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation |
 | 14:30-15:00 | Introduction to LTEE | [ Linda ]
