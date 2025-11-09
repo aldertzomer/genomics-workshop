@@ -51,7 +51,7 @@ Room BOL-2.056
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Who & what** |
 | :-- | :-- | :-- |
 | 09:00-09:15 | Checkin and recap day 1 | [Alex/Peter] |
-| 09:15-10:15 | Introduction sequence data formats and QC | [**Alex**/Peter] |
+| 09:15-10:15 | Introduction sequence data formats and QC | [**Alex**] |
 | 10:15-12:45 | [Data wrangling and processing (1-3)](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | 12:45-13:15 | Break | &nbsp; |
 | 13:15-15:30 | [Data wrangling and processing (4-5)](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Continue to the finish |
