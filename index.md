@@ -56,7 +56,7 @@ Room BOL-2.056
 | 12:45-13:15 | Break | &nbsp; |
 | 13:15-15:30 | [Data wrangling and processing (4-5)](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Continue to the finish |
 | 15:30-16:00 | Plenary status check, problems/difficulties to address? | **All** |
-| 16:15-17:00 | Self study | **Students** |
+| 16:00-17:00 | Self study | **Students** |
   
  
 <br>
