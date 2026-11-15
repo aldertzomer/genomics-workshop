@@ -29,29 +29,29 @@ More information about this data is available on the [Data page](https://aldertz
 
 # Workshop Overview 
 
-### Monday 10 Nov 2025 (day 1)
+### Monday 16 Nov 2026 (day 1)
 
-Room BOL-1.082  
+Room BOL-1.075 &amp; RUPPERT-134   
 
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Who & what** |
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
-| 09:45-10:15 | Introduction data carpentry days 1-2 | [ [**Alex Bossers**](https://www.uu.nl/medewerkers/ABossers/) / [Linda van der Graaf-van Bloois](https://www.uu.nl/medewerkers/LvanderGraafvanBloois/) / [Peter Reinink](https://www.uu.nl/medewerkers/PReinink) ] |
+| 09:45-10:15 | Introduction data carpentry days 1-2 | [ [**Alex Bossers**](https://www.uu.nl/staff/ABossers) / [Peter Reinink](https://www.uu.nl/staff/PReinink) / [Mike Brouwer](https://www.uu.nl/staff/MSMBrouwer) ] |
 | 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/) |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. [ Alex / Peter / Linda ] |
-| 12:45-13:15 | Break | &nbsp; |
-| 13:15-13:45 | Introduction to LTEE | [ **Linda** ]
+| 12:45-13:15 | Break | Also change rooms! |
+| 13:15-13:45 | Introduction to LTEE | [ **Mike** ]
 | 13:45-15:00 | [Introduction command line (5-6)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation |
 | <b>15:00+</b> | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | **Students (self study):** Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 
 
-### Tuesday 11 Nov 2025 (day 2)
+### Tuesday 17 Nov 2026 (day 2)
 
-Room BOL-2.056  
+Room BOL-1.075  
 
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Who & what** |
 | :-- | :-- | :-- |
-| 09:00-09:15 | Checkin and recap day 1 | [ Alex / Peter ] |
-| 09:15-10:15 | Introduction sequence data formats and QC | [ **Alex** ] |
+| 09:00-09:15 | Checkin and recap day 1 | [ All ] |
+| 09:15-10:15 | Introduction deep-sequencing<br>Technology, Data formats and QC | [ **Alex** ] |
 | 10:15-12:45 | [Data wrangling and processing (1-3)](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | 12:45-13:15 | Break | &nbsp; |
 | 13:15-15:30 | [Data wrangling and processing (4-5)](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Continue to the finish |
