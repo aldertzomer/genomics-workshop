@@ -41,7 +41,7 @@ Room BOL-1.075 &amp; RUPPERT-134
 | 12:45-13:15 | Break | Also change rooms! |
 | 13:15-13:45 | Introduction to LTEE | [ **Mike** ]
 | 13:45-15:00 | [Introduction command line (5-6)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation |
-| <b>15:00+</b> | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | **Students (self study):** Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
+| <b>16:00+</b> | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | **Students (self study):** Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 
 
 ### Tuesday 17 Nov 2026 (day 2)
