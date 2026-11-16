@@ -37,11 +37,11 @@ Room BOL-1.075 &amp; RUPPERT-134
 | :-- | :-- | :-- |
 | 09:00-09:45 | Introduction to course | [ [**Michael Seidl**](https://www.uu.nl/staff/MFSeidl) ] |
 | 09:45-10:15 | Introduction data carpentry days 1-2 | [ [**Alex Bossers**](https://www.uu.nl/staff/ABossers) / [Peter Reinink](https://www.uu.nl/staff/PReinink) / [Mike Brouwer](https://www.uu.nl/staff/MSMBrouwer) ] |
-| 10:15-12:45 | [Introduction command line (1-4)](https://aldertzomer.github.io/shell-genomics/) |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. [ Alex / Peter / Linda ] |
+| 10:15-12:45 | [Introduction command line (1-3)](https://aldertzomer.github.io/shell-genomics/) |  **Students:** Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. [ Alex / Peter / Mike ] |
 | 12:45-13:15 | Break | Also change rooms! |
 | 13:15-13:45 | Introduction to LTEE | [ **Mike** ]
-| 13:45-15:00 | [Introduction command line (5-6)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation |
-| <b>16:00+</b> | [Project organization and management](https://aldertzomer.github.io/organization-genomics/) | **Students (self study):** Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
+| 13:45-15:00 | [Introduction command line (4-5)](https://aldertzomer.github.io/shell-genomics/) | **Students:** Continue command line practicals or start Project organisation |
+| <b>16:00+</b> | [Project organization and management (6)](https://aldertzomer.github.io/organization-genomics/) | **Students (self study):** Learn how to structure your metadata, organize and document your genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|
 
 
 ### Tuesday 17 Nov 2026 (day 2)
