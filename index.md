@@ -50,8 +50,8 @@ Room BOL-1.075
 
 | **Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**| **Lesson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Who & what** |
 | :-- | :-- | :-- |
-| 09:00-09:15 | Checkin and recap day 1 | [ All ] |
-| 09:15-10:15 | Introduction deep-sequencing<br>\[Technology, Data formats and QC\] | [ **Alex** ] |
+| 09:00-09:40 | Check-in and recap day 1<br>Small project organisation demo | [ All ]<br>[Alex] |
+| 09:40-10:15 | Introduction deep-sequencing<br>\[Technology, Data formats and QC\] | [ **Alex** ] |
 | 10:15-12:45 | [Data wrangling and processing (1-3)](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation. |
 | 12:45-13:15 | Break | &nbsp; |
 | 13:15-15:30 | [Data wrangling and processing (4-5)](https://aldertzomer.github.io/wrangling-genomics/) | **Students:** Continue to the finish |
